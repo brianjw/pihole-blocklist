@@ -1,43 +1,43 @@
-# An attempt to catch all URLs from https://d3ward.github.io/toolz/adblock
+# An attempt to catch all URLs from d3ward.github.io/toolz/adblock
 # These are the ones my system missed
 
 ##########################################################################
 # Amazon
 ##########################################################################
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
 
 ##########################################################################
 # Bugsnag
 ##########################################################################
-https://api.bugsnag.com
-https://app.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
 
 ##########################################################################
 # Sentry
 ##########################################################################
-https://browser.sentry-cdn.com
+browser.sentry-cdn.com
 
 ##########################################################################
 # Twitter
 ##########################################################################
-https://advertising.twitter.com
+advertising.twitter.com
 
 ##########################################################################
 # Pinterest
 ##########################################################################
-https://widgets.pinterest.com
+widgets.pinterest.com
 
 ##########################################################################
 # Huawei
 ##########################################################################
-https://metrics1.data.hicloud.com
-https://metrics2.data.hicloud.com
-https://metrics5.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics5.data.hicloud.com
 
 ##########################################################################
 # Samsung
 ##########################################################################
-https://samsung-com.112.2o7.net
+samsung-com.112.2o7.net
